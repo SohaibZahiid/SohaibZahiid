@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<br>💻 I'm Full-stack web developer<br>📍 I'm based in Barcelona, Spain<br>✉️ You can contact me at sohaib@gmail.com
+<br>💻 I'm Full-stack web developer<br>📍 I'm based in Barcelona, Spain<br>✉️ You can contact me at sohaib642@gmail.com
 
 
 # 🌐 Socials:

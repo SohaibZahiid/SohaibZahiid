@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 My name is Sohaib Zahid
 
 <!--
 **SohaibZahiid/SohaibZahiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>💻 I'm Full-stack web developer<br>📍 I'm based in Barcelona, Spain<br>✉️ You can contact me at sohaib@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sohaibzahid/) 
 
 # 💻 Tech Stack:
